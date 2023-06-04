@@ -5,7 +5,7 @@
 }
 
 /* Typography
------------------------------------------------------------------*/
+-------------------------------------------------------------*/
 * {
   margin: 0;
   padding: 0;
@@ -14,11 +14,6 @@
   outline: none;
   list-style: none;
 }
-  .my-img{
-    width: 75%;
-    height: 250px;
-    border-radius: 10px;
-  }
 
 body {
   color: #fff;
@@ -2226,7 +2221,7 @@ body.loaded {
 
 .author-profile .img {
 /*  background: var(--maincolor);*/
-margin-left: 60px;
+
 }
 
 .author-profile .img img {
