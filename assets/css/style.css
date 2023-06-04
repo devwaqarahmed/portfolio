@@ -14,6 +14,10 @@
   outline: none;
   list-style: none;
 }
+  .my-img{
+    width: 85%;
+    height: 350px;
+  }
 
 body {
   color: #fff;
