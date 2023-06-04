@@ -17,6 +17,7 @@
   .my-img{
     width: 75%;
     height: 250px;
+    border-radius: 10px;
   }
 
 body {
