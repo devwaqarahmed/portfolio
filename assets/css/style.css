@@ -15,8 +15,8 @@
   list-style: none;
 }
   .my-img{
-    width: 85%;
-    height: 350px;
+    width: 80%;
+    height: 270px;
   }
 
 body {
@@ -2224,7 +2224,8 @@ body.loaded {
 }
 
 .author-profile .img {
-  background: var(--maincolor);
+/*  background: var(--maincolor);*/
+margin-left: 60px;
 }
 
 .author-profile .img img {
