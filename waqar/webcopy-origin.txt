@@ -1,0 +1,372 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700
+File Name: C:\Downloaded Web Sites\kashif.io\css-1
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://kashif.io/
+File Name: C:\Downloaded Web Sites\kashif.io\index.htm
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/ajax-loader.gif.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\ajax-loader.gif.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\all.min.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/fonts/slick.eot.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\fonts\slick.eot.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/fonts/slick.eot_.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\fonts\slick.eot_.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/fonts/slick.svg.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\fonts\slick.svg.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/fonts/slick.ttf.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\fonts\slick.ttf.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/fonts/slick.woff.html
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\fonts\slick.woff.html
+Content Type: text/html
+
+Uri: http://kashif.io/assets/css/helper.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\helper.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/menu.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\menu.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\slick.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/style-2.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\style-2.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/css/style.css
+File Name: C:\Downloaded Web Sites\kashif.io\assets\css\style.css
+Content Type: text/css
+
+Uri: http://kashif.io/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://kashif.io/assets/img/home-2/chat.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\chat.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/circle.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\circle.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/course.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\course.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/cross.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\cross.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero-2-right-shapes.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero-2-right-shapes.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero-dot-1.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero-dot-1.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero-dot-2.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero-dot-2.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero-dot-sm.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero-dot-sm.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero1-left-shape.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero1-left-shape.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/hero2-shape-big.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\hero2-shape-big.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/introduce-right-shape.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\introduce-right-shape.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/member.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\member.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/plugin.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\plugin.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/s6.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\s6.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/service-2-shaped.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\service-2-shaped.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/triangle.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\triangle.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home-2/waves.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home-2\waves.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/h-bg.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\h-bg.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/kashif-logo.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\kashif-logo.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/service-bg.svg
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\service-bg.svg
+Content Type: image/svg+xml
+
+Uri: http://kashif.io/assets/img/home1/testimonial-right-bg.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\testimonial-right-bg.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/touch-imgss.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\touch-imgss.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/waves.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\waves.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/home1/wp-dev.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\home1\wp-dev.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/img/kashif2.png
+File Name: C:\Downloaded Web Sites\kashif.io\assets\img\kashif2.png
+Content Type: image/png
+
+Uri: http://kashif.io/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/imagesloaded.pkgd.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\imagesloaded.pkgd.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/jQuery-Circle-progressbar.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\jQuery-Circle-progressbar.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/jquery.ripples-min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\jquery.ripples-min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/script.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\script.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\kashif.io\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://kashif.io/assets/webfonts/fa-brands-400_.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-brands-400_.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://kashif.io/assets/webfonts/fa-regular-400_.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-regular-400_.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://kashif.io/assets/webfonts/fa-solid-900_.eot
+File Name: C:\Downloaded Web Sites\kashif.io\assets\webfonts\fa-solid-900_.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kashif.io/images/dental2.png
+File Name: C:\Downloaded Web Sites\kashif.io\images\dental2.png
+Content Type: image/png
+
+Uri: http://kashif.io/images/wc.png
+File Name: C:\Downloaded Web Sites\kashif.io\images\wc.png
+Content Type: image/png
+
+Uri: http://kashif.io/images/wp-plugin.png
+File Name: C:\Downloaded Web Sites\kashif.io\images\wp-plugin.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,300,300i,400,400i,500,500i,600,600i,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\kashif.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\kashif.io\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
