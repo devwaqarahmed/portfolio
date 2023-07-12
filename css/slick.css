@@ -1,4 +1,4 @@
-﻿/* Slider */
+/* Slider */
 
 .slick-slider {
     position: relative;
@@ -129,7 +129,7 @@
 /* Slider */
 
 .slick-loading .slick-list {
-    background: #fff url('ajax-loader.gif.html') center center no-repeat;
+    background: #fff url('../ajax-loader.gif.html') center center no-repeat;
 }
 
 
@@ -139,8 +139,8 @@
     font-family: 'slick';
     font-weight: normal;
     font-style: normal;
-    src: url('fonts/slick.eot.html');
-    src: url('fonts/slick.eot_.html') format('embedded-opentype'), url('fonts/slick.woff.html') format('woff'), url('fonts/slick.ttf.html') format('truetype'), url('fonts/slick.svg.html') format('svg');
+    src: url('../slick.eot.html');
+    src: url('../slick.eot_.html#iefix') format('embedded-opentype'), url('../slick.woff.html') format('woff'), url('../slick.ttf.html') format('truetype'), url('../slick.svg.html#slick') format('svg');
 }
 
 

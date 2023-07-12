@@ -10,7 +10,7 @@ Goggle Fonts
 ========================================
 */
 
-@import url('../../css');
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,300i,400,400i,500,500i,600,600i,700,800,900&display=swap');
 
 /*
 ========================================
@@ -130,7 +130,7 @@ Css Style
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-image: url(../img/home1/h-bg.png);
+    background-image: url(../images/h-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -709,7 +709,7 @@ ul.tabs li.current {
     left: -6px;
     height: 100%;
     width: 27%;
-    background-image: url(../img/home1/service-bg.svg);
+    background-image: url(../fonts/service-bg.svg);
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -1063,7 +1063,7 @@ ul.tab-change-3 li.activate {
     width: 52%;
     right: 0;
     top: -45px;
-    background-image: url(../img/home1/testimonial-right-bg.png);
+    background-image: url(../images/testimonial-right-bg.png);
     background-repeat: no-repeat;
     border-bottom-left-radius: 140px;
     /* background-color: #313552;
