@@ -783,7 +783,7 @@ button {
 .tf__about_img::after {
   position: absolute;
   content: "";
-  background: #fff;
+  background: #fff5f5;
   width: 95%;
   height: 80%;
   top: -20px;
