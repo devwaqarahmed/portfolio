@@ -1,1 +1,1 @@
-Hey! Check out my portfolio website, My recent projects , skills and packages 
+Hey! Check out my portfolio website, My recent projects , skills and accomplishments
